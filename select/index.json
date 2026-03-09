@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "KYAWAII♡5000%",
+  "base_artist": "いずれ菖蒲か杜若",
+  "createdAt": "2026-03-09T14:39:26.754759Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KYAWAII♡5000%",
+      "artist": "いずれ菖蒲か杜若",
+      "has_synced": false,
+      "path": "select/pl_01_KYAWAII♡5000_いずれ菖蒲か杜若.txt"
+    }
+  ]
+}
